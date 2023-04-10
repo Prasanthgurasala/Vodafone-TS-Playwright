@@ -7,7 +7,7 @@ test('open lannding page', async ({ page }) => {
         height: 900,
     });
 
-    await page.goto('https://www.tesco.com/');
+    await page.goto('https://www.vodafone.com/');
     
 
 });
